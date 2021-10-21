@@ -21,7 +21,7 @@ cd SECTOOL/
 
 ## Run
 
-```
+``` 
 
 bash search.bash "QUERY"
 
