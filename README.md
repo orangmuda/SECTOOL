@@ -23,7 +23,7 @@ cd SECTOOL/
 
 ``` 
 
-bash search.bash "QUERY"
+bash search.bash "QUERY" 
 
 ```
 
