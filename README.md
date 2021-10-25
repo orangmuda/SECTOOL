@@ -15,7 +15,7 @@
 
 git clone https://github.com/octdev/SECTOOL.git 
 
-cd SECTOOL/
+cd SECTOOL/. 
 
 ```
 
