@@ -9,7 +9,7 @@
 
 - Bing.com
 
-## Installation. 
+## Installation.  
 
 ```
 
