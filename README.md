@@ -12,7 +12,7 @@
 ## Installation.  
 
 ``` 
-
+ 
 git clone https://github.com/octdev/SECTOOL.git 
 
 cd SECTOOL/. 
@@ -30,5 +30,5 @@ bash search.bash "QUERY"
 -------------------------
 
 Thank you :)
-
+ 
 
