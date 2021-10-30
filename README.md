@@ -6,7 +6,7 @@
 - Ask.com
 
 - Search.yahoo.com
-
+  
 - Bing.com
 
 ## Installation.  
