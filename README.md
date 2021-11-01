@@ -13,7 +13,7 @@
 
 ``` 
  
-git clone https://github.com/octdev/SECTOOL.git 
+git clone https://github.com/octdev/SECTOOL.git  
 
 cd SECTOOL/. 
 
