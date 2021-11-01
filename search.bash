@@ -1,7 +1,7 @@
 #!/bin/bash
 
 QUERY="${1}"
-FILESAVE="secraper-result.txt"
+FILESAVE="result.txt"
 
 
 echo ' STARTING FUZZING - POWERED BY @OCTDEV';
